@@ -1,0 +1,40 @@
+#design{
+    border: solid black;
+    width: 1200px;
+    height: 1500px;
+    margin-left: 150px;
+}
+#address{
+    text-align: center;
+    font-style: italic;
+}
+#align_center{
+    text-align: center;
+}
+.align_right{
+    text-align: right;
+}
+#form_size{
+    padding-left: 30px;
+}
+#photo{
+    float: right;
+    border: solid black;
+    width: 90px;
+    height: 80px;
+    margin-right: 100px;
+}
+input{
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    width: 300px;
+}
+.table{
+    margin-left: auto;
+    margin-right: auto;
+}
+#sign{
+    text-align: right;
+    padding-right: 20px;
+}
